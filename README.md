@@ -6,6 +6,7 @@ Tetris game that i programmed in the "Fortgeschrittene Programmierung" Lecture a
 ## Prerequisites
 
 You need to have clang++ (14) installed.
+
 You need to have clang-format-14 installed. (For checkstyle and format)
 
 ## Makefile
